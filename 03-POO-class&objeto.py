@@ -11,5 +11,5 @@ j5 = Smartphone()
 j5.modelo = 'g5-540'
 j5.marca = 'Samsung'
 j5.atributos = ['display 5','camera 8MP','cor branca']
-
+#---------------------------------------------------------#
 j5.mostrar()
